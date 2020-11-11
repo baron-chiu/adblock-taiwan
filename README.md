@@ -1,2 +1,2 @@
 # adblock-taiwan
-A filter list targeted Taiwan Ad Providers, intented for usage with AdGuard Home.
+A filter list of intrusive Ad Providers and content farming providers targeted Taiwan, intented for usage with AdGuard Home.
