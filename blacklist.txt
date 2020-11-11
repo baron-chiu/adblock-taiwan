@@ -1,5 +1,5 @@
 # Taiwan Intrusive Ads
 ||avivid.likr.tw^
-||api.dable.io^
 # Taiwan Content Farm
 ||api.popin.cc^
+||api.dable.io^
