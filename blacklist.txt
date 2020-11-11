@@ -1,5 +1,10 @@
 # Taiwan Intrusive Ads
+## AviviD AI
 ||avivid.likr.tw^
+## OneAd
+||ad-specs.guoshipartners.com^
 # Taiwan Content Farm
+## popin
 ||api.popin.cc^
+## Dable
 ||api.dable.io^
