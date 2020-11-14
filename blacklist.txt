@@ -8,3 +8,5 @@
 ||api.popin.cc^
 ## Dable
 ||api.dable.io^
+## compass-fit and 台灣微告
+||compass-fit.jp^
