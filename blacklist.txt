@@ -3,6 +3,10 @@
 ||avivid.likr.tw^
 ## OneAd
 ||ad-specs.guoshipartners.com^
+## 英特數位
+||now-tracking.com^
+## Ad2
+||ad2iction.com^
 # Taiwan Content Farm
 ## popin
 ||api.popin.cc^
@@ -10,3 +14,7 @@
 ||api.dable.io^
 ## compass-fit and 台灣微告
 ||compass-fit.jp^
+## logly
+||l.logly.co.jp^
+||sync.logly.co.jp^
+||b.logly.co.jp^
