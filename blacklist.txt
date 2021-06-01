@@ -7,6 +7,7 @@
 ||now-tracking.com^
 ## Ad2
 ||ad2iction.com^
+
 # Taiwan Content Farm
 ## popin
 ||api.popin.cc^
@@ -18,3 +19,7 @@
 ||l.logly.co.jp^
 ||sync.logly.co.jp^
 ||b.logly.co.jp^
+## taboola
+||cdn.taboola.com^
+## yahoo a.k.a. verizon
+||readmo.yahoo.com^
